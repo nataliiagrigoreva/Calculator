@@ -13,6 +13,7 @@
 		844AB91F26E7451C00EE5D4B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 844AB91D26E7451C00EE5D4B /* Main.storyboard */; };
 		844AB92126E7451D00EE5D4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 844AB92026E7451D00EE5D4B /* Assets.xcassets */; };
 		844AB92426E7451D00EE5D4B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 844AB92226E7451D00EE5D4B /* LaunchScreen.storyboard */; };
+		844AB92E26E74BC300EE5D4B /* VideoPreviewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 844AB92D26E74BC300EE5D4B /* VideoPreviewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		844AB92026E7451D00EE5D4B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		844AB92326E7451D00EE5D4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		844AB92526E7451D00EE5D4B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		844AB92D26E74BC300EE5D4B /* VideoPreviewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = VideoPreviewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				844AB91926E7451C00EE5D4B /* SceneDelegate.swift */,
 				844AB91B26E7451C00EE5D4B /* ViewController.swift */,
 				844AB91D26E7451C00EE5D4B /* Main.storyboard */,
+				844AB92D26E74BC300EE5D4B /* VideoPreviewCell.xib */,
 				844AB92026E7451D00EE5D4B /* Assets.xcassets */,
 				844AB92226E7451D00EE5D4B /* LaunchScreen.storyboard */,
 				844AB92526E7451D00EE5D4B /* Info.plist */,
@@ -126,6 +129,7 @@
 			files = (
 				844AB92426E7451D00EE5D4B /* LaunchScreen.storyboard in Resources */,
 				844AB92126E7451D00EE5D4B /* Assets.xcassets in Resources */,
+				844AB92E26E74BC300EE5D4B /* VideoPreviewCell.xib in Resources */,
 				844AB91F26E7451C00EE5D4B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
